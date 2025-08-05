@@ -1,5 +1,5 @@
 body {
-  font-family: "Bitcount Single", system-ui;
+  font-family: "Caprasimo", serif;
   background-image: url('poopy.png');
   background-repeat: no-repeat;
   background-size: center;
@@ -183,3 +183,4 @@ button:hover {
     font-size: 1.8rem;
   }
 }
+
