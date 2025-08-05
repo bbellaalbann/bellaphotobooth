@@ -59,7 +59,7 @@ video {
 }
 
 button {
-  font-family: "Bitcount Single", system-ui;
+  font-family: "Caprasimo", serif; 
   background-color: #806431;
   color: #f1ede6;
   padding: 10px 16px;
@@ -183,4 +183,5 @@ button:hover {
     font-size: 1.8rem;
   }
 }
+
 
